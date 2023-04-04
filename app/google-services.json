@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "369618908801",
+    "project_id": "notte-app-3c5ae",
+    "storage_bucket": "notte-app-3c5ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369618908801:android:e443d3620cae9a45e77f80",
+        "android_client_info": {
+          "package_name": "com.nottes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369618908801-8qcd3104okmfthhiob5i2ario875u14e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nottes",
+            "certificate_hash": "0ae3d8aafc772c0fccf9616adba7b2d04b909648"
+          }
+        },
+        {
+          "client_id": "369618908801-rhiosi7q47tlf60hha7kq6paj8sh0b2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbl_8m0eXiZ5jChvapeDcEIAId76tKkno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369618908801-rhiosi7q47tlf60hha7kq6paj8sh0b2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

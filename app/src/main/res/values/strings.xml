@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nottes</string>
+    <string name="enter_notte">Enter notte</string>
+    <string name="enter_title">Enter title</string>
+    <string name="add">add</string>
+    <string name="titletextview">titleTextView</string>
+    <string name="timetextview">timeTexTview</string>
+</resources>
